@@ -5,3 +5,4 @@ lab04 https://github.com/2303A51670/ADM-Lab/blob/main/ADM_4.ipynb
 Lab-Test https://github.com/2303A51670/ADM-Lab/blob/main/Lab_Test.ipynb
 Lab05 https://github.com/2303A51670/ADM-Lab/blob/main/ADM_lab_05.ipynb
 Lab06 https://github.com/2303A51670/ADM-Lab/blob/main/ADM_Lab06.ipynb
+Lab07 https://github.com/2303A51670/ADM-Lab/blob/main/Adm_Lab_07.ipynb
